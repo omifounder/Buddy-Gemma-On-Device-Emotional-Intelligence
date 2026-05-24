@@ -1,4 +1,4 @@
-# From Data to Empathy: Building Hi-Buddy, a Mental Health Companion for Teens
+# From Data to Empathy: Building Hi-Buddy, a Mental Health Companion for Teens (Part-2)
 
 > **Preference Optimization Research to Inform Domain-Specific AI Alignment**
 
