@@ -1,4 +1,4 @@
-# From Data to Empathy: Building Hi-Buddy, a Mental Health Companion for Teens (Part-1)
+# From Data to Empathy: Building Hi-Buddy, a Mental Health Companion for Teens (phase-1)
 
 > **Alignment research to inform a domain-specific mental health assistant for teens under 14**
 > 
