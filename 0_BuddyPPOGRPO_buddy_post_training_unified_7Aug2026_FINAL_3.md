@@ -1,4 +1,4 @@
-# Post-Training, Derived Through Buddy — End-to-End at Pseudocode Level
+# Post-Training, Derived Through Buddy — End-to-End at Pseudocode Level (Part-3)
 ### PPO · reward modeling · DPO · GRPO, every concept taught on Buddy's own inputs
 
 This is one document, not theory-plus-a-case-study. Every derivation runs on **Buddy's actual
